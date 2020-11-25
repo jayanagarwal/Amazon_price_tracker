@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/jayan/Desktop/amazon_price_tracker/amazon"
+set -gx VIRTUAL_ENV "/home/jayan/Desktop/Amazon_price_tracker/amazon"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
